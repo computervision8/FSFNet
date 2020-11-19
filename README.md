@@ -188,6 +188,6 @@ python eval_forwardTime.py
   * Segmentation training and evaluation code from [ERFNet](https://github.com/Eromera/erfnet)
   * Performance valuation of latency speed code from [Fasterseg](https://github.com/VITA-Group/FasterSeg)
   * Cityscapes dataset is from [Cityscapes](https://www.cityscapes-dataset.com/submit/)
-  
+  * Computes class weights as described in the [ENet](https://arxiv.org/abs/1606.02147) paper
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, which allows for personal and research use only. For a commercial license please contact the authors. You can view a license summary here: [http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
