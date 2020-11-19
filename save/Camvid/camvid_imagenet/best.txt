@@ -1,0 +1,1 @@
+Best epoch is 177, with Val-IoU= 0.7477

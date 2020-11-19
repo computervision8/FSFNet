@@ -1,0 +1,1 @@
+Namespace(batch_size=1, cuda=True, datadir='/home/etri/DB/mapillary/new2/', decoder=True, epochs_save=0, height=1024, iouTrain=False, iouVal=True, model='FSFNet', num_epochs=200, num_workers=12, port=8097, pretrainedEncoder=None, resume=False, savedir='FSFNet', state=None, steps_loss=50, steps_plot=50, visualize=False)
