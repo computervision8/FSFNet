@@ -167,7 +167,7 @@ python eval_forwardTime.py
 
      
 
-## Result(mapillary)
+## Result(Mapillary)
    * Class results(IoU)
      |Method| IoU Classes|
      |---|:---:|
