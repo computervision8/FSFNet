@@ -174,9 +174,13 @@ python eval_forwardTime.py
      |FSFNet|24.5|
      
           
-     |Method|animal--bird|animal--ground-animal|
-     |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-     |FSFNet|91.5|79.37|29.79|90.22|70.33|76.14|39.5|40.47|78.68|48.62|51.28|
+     |Method|Bird|Ground Animal|Curb|Fence|Guard Rail|Barrier|Wall|Bike Lane|Crosswalk - Plain|Curb Cut|Parking|Pedestrian Area|Rail Track|Road|Service Lane|Sidewalk|Bridge|Building|Tunnel|Person|Bicyclist|Motorcyclist|Other Rider|Lane Marking - Crosswalk|Lane Marking - General|Mountain|Sand|Sky|Snow|Terrain|Vegetation|Water|Banner|Bench|Bike Rack|Billboard|Catch Basin|CCTV Camera|Fire Hydrant|Junction Box|Mailbox|Manhole|Phone Booth|Pothole|Street Light|Pole|Traffic Sign Frame|Utility Pole|Traffic Light|Traffic Sign (Back)|Traffic Sign (Front)|Trash Can|Bicycle|Boat|Bus|Car|Caravan|Motorcycle|On Rails|Other Vehicle|Trailer|Truck|Wheeled Slow|Car Mount|Ego Vehicle|Unlabeled|
+     |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+     
+     
+     
+     
+     
 
 
      
