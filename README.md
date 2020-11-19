@@ -165,11 +165,21 @@ python eval_forwardTime.py
      |FSFNet|91.5|79.37|29.79|90.22|70.33|76.14|39.5|40.47|78.68|48.62|51.28|
 
 
+     
+
 ## Result(mapillary)
    * Class results(IoU)
      |Method| IoU Classes|
      |---|:---:|
      |FSFNet|24.5|
+     
+          
+     |Method|animal--bird|animal--ground-animal|
+     |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+     |FSFNet|91.5|79.37|29.79|90.22|70.33|76.14|39.5|40.47|78.68|48.62|51.28|
+
+
+     
 
 
 ## Achknowledgement
